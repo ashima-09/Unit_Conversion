@@ -35,4 +35,5 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun UnitConv(){
  var amount:Int
+ var calc:String
 }
