@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Unit Converter</string>
+    <string name="Conversion_gr">Value in kgs = %s kg</string>
+    <string name="Conversion_kg">Value in grams = %s g</string>
+    <string name="Conversion_in">Value in meters = %s m</string>
+    <string name="Conversion_m">Value in inches = %s in</string>
+    <string name="Conversion_inr">Amount in INR = Rs. %s</string>
+    <string name="Conversion_usd">Amount in USD = $ %s</string>
 </resources>
